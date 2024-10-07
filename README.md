@@ -29,12 +29,12 @@ Contributions are welcome! Feel free to open issues and give me a feedback.
 
 ## 📝 Author
 
-- **Lucas da Silva Pinto** - [My GitHub Profile]([https://github.com/your-username](https://github.com/lucassilvapinto))
+**Lucas da Silva Pinto** - [My GitHub Profile](https://github.com/lucassilvapinto)
 
 ## 🎯 Technologies Used
 
 - **Python**
 
 ---
+Developed with ❤️ by [Lucas](https://github.com/lucassilvapinto)
 
-Developed with ❤️ by [Lucas]([https://github.com/your-username](https://github.com/lucassilvapinto))
